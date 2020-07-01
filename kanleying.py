@@ -94,11 +94,6 @@ class Comic(Util):
         # https://www.kanleying.com/
         'kanleying': kanleying_type,
 
-        # https://www.kenman123.com/
-        'kenman123': kanleying_type,
-
-        # https://www.cswhcs.com/
-        'cswhcs': kanleying_type,
 
         # https://www.qinqinmh.com/
         'qinqinmh': kanleying_type,
@@ -117,10 +112,6 @@ class Comic(Util):
 
         # https://www.zuozuomanhua.com/
         'zuozuomanhua': mm820_type,
-
-
-        # https://www.mm820.com/
-        'mm820': mm820_type,
 
         # https://www.wooowooo.com/
         'wooowooo': mm820_type,
